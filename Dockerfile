@@ -1,2 +1,2 @@
 FROM node:alpine
-RUN npm install marked
+RUN npm install -g marked
